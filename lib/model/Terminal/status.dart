@@ -1,7 +1,7 @@
 class Status {
-  final terminalID;
-  final dateTime;
-  final isOnline;
+  final int terminalID;
+  final int dateTime;
+  final bool isOnline;
   //final Status;
 
   const Status(
